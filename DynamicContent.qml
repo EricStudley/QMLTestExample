@@ -1,7 +1,7 @@
 import QtQuick
 import QtQuick.Controls
 
-import "../components"
+import "CapTel/qml/components"
 
 Page {
     background: Background { }
